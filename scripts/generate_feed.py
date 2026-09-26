@@ -149,7 +149,7 @@ def build_rss(event, score_line, stat_lines, state):
     now_rfc822 = datetime.datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
 
     item = f"""    <item>
-      <title>{escape(f"{status_label}: {game_name}")}</title>
+      <title>{escape(f"{status_label}: {score_line}")}</title>
       <link>{escape(SITE_LINK)}</link>
       <guid isPermaLink="false">{escape(event.get('id', game_name))}-{escape(state or '')}</guid>
       <pubDate>{pub_date_rfc822}</pubDate>
