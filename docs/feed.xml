@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>New York Jets — Gameday Scores &amp; Stats</title>
+    <link>https://www.espn.com/nfl/team/_/name/nyj/new-york-jets</link>
+    <description>Automated gameday RSS feed: score, final/live status, and key team stats for the most recent New York Jets game.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <ttl>15</ttl>
+    <item>
+      <title>Final: Green Bay Packers at New York Jets</title>
+      <link>https://www.espn.com/nfl/team/_/name/nyj/new-york-jets</link>
+      <guid isPermaLink="false">401872936-post</guid>
+      <pubDate>Sun, 20 Sep 2026 17:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <b>Final:</b> Green Bay Packers 20 — New York Jets 17 (Final/OT)<br/>
+        <b>Key stats:</b>
+        <ul>
+          <li>Jets fell to 1-1 after a 20-17 overtime loss in their home opener at MetLife Stadium</li>
+          <li>Jets led 17-7 in the fourth quarter before the Packers scored the game's final 13 points</li>
+          <li>QB Geno Smith: 27-of-41 for 247 yards, 1 TD (to Garrett Wilson), 0 INT, 90.2 passer rating</li>
+          <li>WR Adonai Mitchell: 6 catches for 63 yards; WR Garrett Wilson: 5 catches for 57 yards and a TD</li>
+          <li>RB Breece Hall: 16 carries for 29 yards, plus 5 catches for 63 yards</li>
+          <li>Jets defense held Green Bay to 199 total yards and 1-of-9 on third down</li>
+          <li>HC Aaron Glenn: called it a tough way to lose, saying the team has things to fix</li>
+        </ul>
+      ]]></description>
+    </item>
+  </channel>
+</rss>
